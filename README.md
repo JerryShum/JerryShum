@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Jerry</h1>
-<h3 align="center">I'm a software engineering student at Ontariotech University!</h3>
+<h1 align="center">Hello! 👋 I'm Jerry</h1>
+<h3 align="center">I am a software engineering student at Ontariotech University!</h3>
 
-- 🌱 I’m currently learning **c!**
+- 🌱 I’m currently learning **web development with TOP and c using "The C programming language"!**
+
+- 📫 How to reach me **j.shum@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/jerry shum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerry shum" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
