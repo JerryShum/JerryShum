@@ -26,16 +26,10 @@ When I'm not coding, you can find me reading a good productivity book, or perhap
 
 #
 
-### 📈 My Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerryshum&show_icons=true&theme=gruvbox)
+### 📙 My Journey
 
-
-#
-
-<details>
- <summary><h3>📙 My Journey</h3></summary>
-Hello, fellow coders! 👋 My journey into the world of code began during my first year at OntarioTech University, in my "Intro to Programming" class. I was introduced to the fundamentals of programming through the C++ language and through the use of Visual Studio.
+My journey into the world of code began during my first year at OntarioTech University, in my "Intro to Programming" class. I was introduced to the fundamentals of programming through the C++ language and through the use of Visual Studio.
 
 I still remember writing my first ever program:
 
