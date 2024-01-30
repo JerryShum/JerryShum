@@ -1,19 +1,55 @@
-<h1 align="center">Hello! 👋 I'm Jerry</h1>
-<h3 align="center">I am a software engineering student at Ontariotech University!</h3>
+# 👨‍💻 Jerry Shum
 
-- 🌱 I’m currently learning **web development with TOP and c using "The C programming language"!**
+**`Aspiring Software Engineer and Currently Student`**
 
-- 📫 How to reach me **j.shum@outlook.com**
+Hello there! 👋 I'm an aspiring software engineer and currently honing my skills as a software engineering student at OntarioTech University. I'm very passionate about technology and I strive to create meaningful change. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jerry-shum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerry shum" height="30" width="40" /></a>
-</p>
+My interests include web development, full-stack development, and all things related to tech! I'm always eager to take on new challenges and learn about the latest industry trends. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+When I'm not coding, you can find me reading a good productivity book, or perhaps immersing myself into the world of vidoe games. Feel free to reach out if you'd like to collaborate on a project or just chat about tech!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerryshum&show_icons=true&locale=en&layout=compact" alt="jerryshum" /></p>
+#
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerryshum&show_icons=true&locale=en" alt="jerryshum" /></p>
+### ⚙️ Coding Languages and Tools
 
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+#
+
+### 📈 My Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerryshum&show_icons=true&theme=gruvbox)
+
+
+#
+
+<details>
+ <summary><h3>📙 My Journey</h3></summary>
+Hello, fellow coders! 👋 My journey into the world of code began during my first year at OntarioTech University, in my "Intro to Programming" class. I was introduced to the fundamentals of programming through the C++ language and through the use of Visual Studio.
+
+I still remember writing my first ever program:
+
+
+```cpp
+#include<iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, World!";
+    return 0;
+}
+```
+
+Seeing my first "Hello, World!" pop into the console made me feel so much power and excitement, which led me to make a very significant decision - I shifted my specialization from Mechatronics Engineering to Software Engineering. It was a very difficult transition, but one that I am so happy I made. 
+
+Since then, I've journeyed through the world of software development, constantly learning, growing, and coding.
