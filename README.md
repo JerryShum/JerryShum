@@ -1,6 +1,6 @@
 # 👨‍💻 Jerry Shum
 
-**`Aspiring Software Engineer and Currently Student`**
+**`Aspiring Software Engineer and SWE Student`**
 
 Hello there! 👋 I'm an aspiring software engineer and currently honing my skills as a software engineering student at OntarioTech University. I'm very passionate about technology and I strive to create meaningful change. 
 
