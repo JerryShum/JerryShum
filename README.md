@@ -4,7 +4,7 @@
 
 Hello there! 👋 I'm an aspiring software engineer and currently honing my skills as a software engineering student at OntarioTech University. I'm very passionate about technology and I strive to create meaningful change. 
 
-When I'm not coding, you can find me reading a good productivity book, or perhaps immersing myself into the world of vidoe games. Feel free to reach out if you'd like to collaborate on a project or just chat about tech!
+When I'm not coding, you can find me reading a good productivity book, or perhaps immersing myself into the world of video games. Feel free to reach out if you'd like to collaborate on a project or just chat about tech!
 
 #
 
